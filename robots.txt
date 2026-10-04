@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orbit-studio.am/sitemap.xml
